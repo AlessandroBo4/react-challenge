@@ -82,7 +82,7 @@ const App = () => {
           />
         ))}
       </ul>
-      <Result result={calculateResult()} />{" "}
+      <Result result={calculateResult()} />
     </div>
   );
 };
